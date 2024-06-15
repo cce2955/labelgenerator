@@ -1,6 +1,5 @@
-# User Input Excel Sheet Generator
-
-This project is a Python script that creates an Excel sheet based on user input. The Excel sheet is formatted with specific dimensions and includes dynamic font sizing for cell content.
+# Label Maker for Folder Tabs
+This project is a Python script that creates an Excel sheet based on user input. The Excel sheet is formatted with specific dimensions and includes dynamic font sizing for cell content. The tabs are sized to be 1x0.5in
 
 ## Features
 
