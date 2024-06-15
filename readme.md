@@ -19,23 +19,23 @@ This project is a Python script that creates an Excel sheet based on user input.
 1. Clone the repository or download the script file.
 2. Navigate to the directory containing the script.
 3. Install the required library using the following command:
-   '''sh
+   ```sh
    pip install -r requirements.txt
-   '''
+   ```
 
 ## Usage
 
 1. Run the script using Python:
-   '''sh
+   ```sh
    python main.py
-   '''
+   ```
 2. You will be prompted to enter inputs for each cell in an 8x22 grid. Type your input and press Enter to move to the next cell.
 3. To stop entering inputs before the grid is completely filled, type `exit`.
 4. The script will generate an Excel file named `user_input_grid.xlsx` in the same directory.
 
 ## Example
 
-'''sh
+```sh
 $ python main.py
 You will be prompted to enter inputs for an 8x22 grid (1 inch wide, 0.5 inch high cells).
 Enter input for cell (1, 1) (type 'exit' to stop): Hello
@@ -43,7 +43,7 @@ Enter input for cell (1, 2) (type 'exit' to stop): World
 ...
 Enter input for cell (2, 1) (type 'exit' to stop): exit
 Excel sheet created as 'user_input_grid.xlsx'.
-'''
+```
 
 ## License
 
